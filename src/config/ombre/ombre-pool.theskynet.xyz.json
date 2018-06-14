@@ -1,0 +1,7 @@
+{
+  "name": "ombre-pool.theskynet.xyz",
+  "front": "https://ombre-pool.theskynet.xyz",
+  "back": "https://ombre-pool.theskynet.xyz/api",
+  "location": "US",
+  "impl": "nodejs-pool"
+}

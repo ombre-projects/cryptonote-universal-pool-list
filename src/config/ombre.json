@@ -1,0 +1,51 @@
+{
+  "currency": {
+    "name": "Ombre",
+    "short_name": "Ombre",
+    "tech_name": "Ombre",
+    "symbol": "OMB",
+    "difficultyTarget": 60,
+    "units": 1000000000
+  },
+  "links": {
+    "www.ombre.io": {
+      "icon": "fa fa-home",
+      "url": "https://www.ombre.io"
+    },
+    "github.com": {
+      "icon": "fa fa-github",
+      "url": "https://github.com/ombre-projects/ombre"
+    }
+  },
+  "exchanges": {
+    "bittrex": {
+      "logo": "images/tradeogre.png",
+      "url": "https://tradeogre.com/exchange/BTC-OMB"
+    }
+  },
+  "coinmarket": {
+    "currency": "ombre",
+    "base": "USD",
+    "secondary": "BTC",
+    "ticker": "true",
+    "rank": "true",
+    "marketcap": "true",
+    "volume": "true",
+    "stats": "USD",
+    "statsticker": "false"
+  },
+  "administrator": {
+    "email": "niels.heinen@gmail.com",
+    "request_user": "heinen",
+    "request_repo": "cryptonote-universal-pool-list"
+  },
+  "analytic": {
+    "ga": "UA-120854171-1"
+  },
+  "ads": {
+    "a-ads.com": "851742"
+  },
+  "worker": {
+    "interval_ms": 300000
+  }
+}

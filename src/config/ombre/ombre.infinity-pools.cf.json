@@ -1,0 +1,8 @@
+{
+  "name": "ombre.infinity-pools.cf",
+  "front": "https://ombre.infinity-pools.cf/",
+  "back": "https://ombre.infinity-pools.cf:8119",
+  "location": "EU",
+  "impl": "cryptonote-universal-pool",
+  "disabled": false
+}
