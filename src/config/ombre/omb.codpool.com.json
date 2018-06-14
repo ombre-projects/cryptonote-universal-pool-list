@@ -1,0 +1,8 @@
+{
+  "name": "omb.codpool.com",
+  "front": "https://omb.codpool.com/",
+  "back": "https://pool.codpool.com:8113",
+  "location": "US",
+  "impl": "cryptonote-universal-pool",
+  "disabled": false
+}
