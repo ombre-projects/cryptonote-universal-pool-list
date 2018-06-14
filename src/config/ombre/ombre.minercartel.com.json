@@ -1,0 +1,7 @@
+{
+  "name": "ombre.minercartel.com",
+  "front": "https://ombre.minercartel.com",
+  "back": "https://api.ombre.minercartel.com/api",
+  "location": "US",
+  "impl": "nodejs-pool"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cryptoknight.cc",
+  "front": "https://cryptoknight.cc/ombre/",
+  "back": "https://cryptoknight.cc/rpc/ombre/",
+  "location": "US",
+  "impl": "cryptonote-universal-pool",
+  "disabled": false
+}
