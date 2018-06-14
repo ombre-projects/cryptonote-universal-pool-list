@@ -1,0 +1,7 @@
+{
+  "name": "omb.codpool.com",
+  "front": "https://omb.codpool.com",
+  "back": "https://omb.codpool.com/api",
+  "location": "US",
+  "impl": "nodejs-pool"
+}
