@@ -1,8 +1,0 @@
-{
-  "name": "pool.codpool.com",
-  "front": "https://pool.codpool.com",
-  "back": "https://pool.codpool.com:8113/",
-  "location": "EU",
-  "impl": "cryptonote-universal-pool",
-  "disabled": false
-}
