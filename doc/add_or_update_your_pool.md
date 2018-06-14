@@ -6,7 +6,7 @@ That means you have to do the change your-self and then submit a pool request.
 ## Fork the repository
 
 The first step is to get the source code.
-From https://github.com/tmorin/cryptonote-universal-pool-list, fork the repository.
+From https://github.com/ombre-projects/cryptonote-universal-pool-list, fork the repository.
 Then checkout it locally.
 
 ## Setup environment
