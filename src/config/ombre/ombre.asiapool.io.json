@@ -1,0 +1,8 @@
+{
+  "name": "ombre.asiapool.io",
+  "front": "http://ombre.asiapool.io/",
+  "back": "http://ombre.asiapool.io:1515",
+  "location": "AS",
+  "impl": "cryptonote-universal-pool",
+  "disabled": false
+}
